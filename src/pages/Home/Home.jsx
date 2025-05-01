@@ -1,7 +1,9 @@
+// src/pages/Home/Home.jsx
 const Home = () => {
-    return (
-      <div className="text-slate-200 text-3xl underline">Home</div>
-    )
-  }
-  
-  export default Home
+  return (
+    <div className="text-white text-3xl p-10">
+      Welcome to GO-FX Trading Platform 🚀
+    </div>
+  );
+};
+export default Home;
